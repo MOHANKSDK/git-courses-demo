@@ -1,1 +1,2 @@
 TEST3 FILE
+This is test3.file 
